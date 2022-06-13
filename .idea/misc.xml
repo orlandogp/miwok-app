@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/MAIN-PC/AndroidStudioProjects/Miwok v2/app/src/main/res/layout/activity_category.xml" value="0.365625" />
+        <entry key="..\:/Users/MAIN-PC/AndroidStudioProjects/Miwok v2/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MAIN-PC/AndroidStudioProjects/Miwok v2/app/src/main/res/layout/fragment_colors.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/MAIN-PC/AndroidStudioProjects/Miwok v2/app/src/main/res/layout/fragment_family.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/MAIN-PC/AndroidStudioProjects/Miwok v2/app/src/main/res/layout/fragment_phrases.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/MAIN-PC/AndroidStudioProjects/Miwok v2/app/src/main/res/layout/word_list.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/MAIN-PC/AndroidStudioProjects/Miwok/app/src/main/res/drawable/baseline_play_arrow_24.xml" value="0.2455" />
         <entry key="..\:/Users/MAIN-PC/AndroidStudioProjects/Miwok/app/src/main/res/layout/activity_colors.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/MAIN-PC/AndroidStudioProjects/Miwok/app/src/main/res/layout/activity_family.xml" value="0.36666666666666664" />
